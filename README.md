@@ -1,2 +1,2 @@
 # dump
-smotri-kak-ya-stradau
+smotri-kak-ya-stradau ;)
