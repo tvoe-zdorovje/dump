@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<shop>
+    <goods>goods</goods>
+    <count>5</count>
+    <profit>3.14</profit>
+    <secretData>string1</secretData>
+    <secretData>string2</secretData>
+</shop>
